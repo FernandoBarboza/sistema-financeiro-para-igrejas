@@ -4,5 +4,5 @@
 
 Para iniciar o projeto execute:
 ```
-npm install
+node app.js
 ```
